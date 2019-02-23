@@ -5,7 +5,7 @@
 
 ## View the project
 
-https://excuse-generator-brianlogsdon.c9users.io/index.html
+https://brianlogsdon.github.io/excuse-generator/
 
 
 ## Authors
